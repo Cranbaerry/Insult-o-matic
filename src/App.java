@@ -42,7 +42,7 @@ public class App {
 
         while (scanner.hasNextLine()) {
             String line = scanner.nextLine();
-            line = line.replaceAll("\"", "\\\"");
+            line = line.replace("\"", "\\\"");
             arrayList.add(line);
         }
 
