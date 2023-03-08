@@ -15,7 +15,7 @@ To run the Insult-o-matic program, you will need to have the following installed
 
 - Java Development Kit (JDK) 8 or later
 - The jlayer library, which can be downloaded from https://mvnrepository.com/artifact/javazoom/jlayer/1.0.1
-- An API key for the ElevenLabs API text-to-speech service, which can be obtained by signing up at https://www.eleven-labs.com/en/
+- An API key for the ElevenLabs API text-to-speech service, which can be obtained by signing up at https://beta.elevenlabs.io/
 
 ## Usage
 
